@@ -1,0 +1,5 @@
+Algorithm: FCFS
+Context switches: 3
+Busy time: 14
+Elapsed time: 14
+CPU utilization: 100%

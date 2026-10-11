@@ -1,0 +1,5 @@
+Algorithm: Round Robin
+Context switches: 6
+Busy time: 14
+Elapsed time: 14
+CPU utilization: 100%

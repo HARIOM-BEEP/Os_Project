@@ -1,0 +1,17 @@
+Time,PID,Previous State,New State
+0,1,New,Waiting for Memory
+0,1,Waiting for Memory,Ready
+0,1,Ready,Running
+1,2,New,Waiting for Memory
+1,2,Waiting for Memory,Ready
+2,3,New,Waiting for Memory
+4,4,New,Waiting for Memory
+5,1,Running,Terminated
+5,4,Waiting for Memory,Ready
+5,2,Ready,Running
+8,2,Running,Terminated
+8,4,Ready,Running
+10,4,Running,Terminated
+10,3,Waiting for Memory,Ready
+10,3,Ready,Running
+14,3,Running,Terminated
